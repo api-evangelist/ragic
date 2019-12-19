@@ -1,0 +1,90 @@
+{
+    "name": "Ragic",
+    "description": "Design powerful Web databases for your business with simple Excel-like interface. Business data management solution that just works.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2077-ragic.jpg",
+    "tags": [
+        "data",
+        "databases",
+        "have api",
+        "spreadsheets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ragic\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ragic",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2077-ragic.jpg",
+            "humanURL": "http:\/\/www.ragic.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ragic-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.ragic.com\/intl\/en\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ragic"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/ragic"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.ragic.com\/intl\/en\/doc-api"
+        },
+        {
+            "type": "Email",
+            "url": "info@ragic.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@ragic.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@ragic.com"
+        },
+        {
+            "type": "Email",
+            "url": "pr@ragic.com"
+        },
+        {
+            "type": "Email",
+            "url": "hr@ragic.com"
+        },
+        {
+            "type": "Email",
+            "url": "berrin@ragic.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@ragic.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ragic"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Ragic"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ragic.com\/"
+        }
+    ]
+}
